@@ -1,7 +1,13 @@
 # Hi there 👋
 
 ```java
-System.out.println("Hello World!");
+public class FAZuHGreeting extends FAZuH implements Greeter {
+    @Override
+    public void greet() {  
+        display("Hi there 👋");
+        centerDisplay(getTopLanguagesDisplay());
+    }
+}
 ```
 <div align="center">
 

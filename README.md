@@ -13,8 +13,8 @@ Here's some stuffs about me
 **Personal Projects**
 
 - [pwr-bot](https://github.com/FAZuH/pwr-bot): Discord bot for tracking anime & manga updates, and voice call stats
-- [fazuh.com](https://fazuh.com): My notes, hosted on a VPS. Written using [Obsidian](https://obsidian.md), built using [Quartz](https://quartz.jzhao.xyz/)
-- mail.fazuh.com: Mail server for @fazuh.com emails using [Mailcow](https://mailcow.email/)
+- [fazuh.com](https://fazuh.com): My notes, hosted on a VPS. Written using [![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=flat-square&logo=obsidian&logoColor=white)](https://obsidian.md/), built using [![Quartz](https://img.shields.io/badge/Quartz-000000?style=flat-square&logo=obsidian&logoColor=white)](https://quartz.jzhao.xyz/)
+- mail.fazuh.com: Mail server for @fazuh.com emails using [![Mailcow](https://img.shields.io/badge/Mailcow-EA4335?style=flat-square&logo=gmail&logoColor=white)](https://mailcow.email/)
 - [warlock](https://github.com/FAZuH/warlock): Bot for course registration, course schedule update tracking for SIAKNG - UI
 - [contribution-grid](https://crates.io/crates/contribution-grid): A Rust crate for generating customizable, GitHub-style contribution heatmap graphs as images
 - [faz-bot-app-discord](https://github.com/FAZuH/faz-bot-app-discord) & [faz-bot-app-collect](https://github.com/FAZuH/faz-bot-app-collect): Discord bot for Wynncraft stat tracking n stuff

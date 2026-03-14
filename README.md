@@ -59,7 +59,9 @@ List of programming languages and frameworks used for my projects
 
 List of tools and platforms I've used to manage my servers
 
-- [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/): To spin up services declaratively and consistently. I have 33 `docker-compose.yaml` and 107 active containers. For other services I just create bash scripts
+- [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/): To spin up services declaratively and consistently. Currently I have:
+  - 33 `docker-compose.yaml`
+  - 107 active containers
 - [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/), [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/) and other Linux tools: For simple scripting & automation
 - [![Tailscale](https://img.shields.io/badge/Mailcow-242424?style=flat-square&logo=tailscale&logoColor=white)](https://tailscale.com/): 
     - To connect securely to private services (such as Nextcloud, admin panels, Bitwarden, etc.) or devices
@@ -71,7 +73,7 @@ List of tools and platforms I've used to manage my servers
 - [![SOPS](https://img.shields.io/badge/SOPS-5E6772?style=flat-square)](https://github.com/getsops/sops) & [![age](https://img.shields.io/badge/age-000000?style=flat-square)](https://github.com/FiloSottile/age): Secrets encryption
 - [![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)](https://grafana.com/), [![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)](https://prometheus.io/), [![Uptime Kuma](https://img.shields.io/badge/Uptime_Kuma-607D8B?style=flat-square&logo=uptime-kuma&logoColor=white)](https://uptime.kuma.pet/): Server monitoring
 - [![OVH](https://img.shields.io/badge/OVH-0050D7?style=flat-square&logo=ovh&logoColor=white)](https://www.ovhcloud.com/): Current cloud provider. As of writing, I manage 3 VPS & 1 dedicated (+3 VM)
-- [![iptables](https://img.shields.io/badge/iptables-444444?style=flat-square)](https://www.netfilter.org/projects/iptables/), [![Consul](https://img.shields.io/badge/Consul-F24C53?style=flat-square&logo=consul&logoColor=white)](https://www.consul.io/): Created script to NAT active Docker containers dynamically (which isn't possible by default) in VMs, and route to a port in the host, all sharing 1 IP with health checking
+- [![iptables](https://img.shields.io/badge/iptables-444444?style=flat-square)](https://www.netfilter.org/projects/iptables/), [![Consul](https://img.shields.io/badge/Consul-F24C53?style=flat-square&logo=consul&logoColor=white)](https://www.consul.io/): Created script to NAT active Docker containers dynamically in VMs, and route to a port in the host, all sharing 1 IP with health checking
 - [![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)](https://www.proxmox.com/): For virtualization in my dedicated server to manage VMs and resource allocation. Though I just copied a setup script and modified it
 
 <hr>

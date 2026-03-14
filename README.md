@@ -60,11 +60,6 @@ List of programming languages and frameworks used for my projects
 List of tools and platforms I've used to manage my servers
 
 - [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/): To spin up services declaratively and consistently. I have 33 `docker-compose.yaml` and 107 active containers. For other services I just create bash scripts
-    <details>
-    <summary>Images</summary>
-        
-    ![See image](https://media.discordapp.net/attachments/1301884019457261729/1482412493916733711/image.png?ex=69b6dbb8&is=69b58a38&hm=c8e9e560253892c287737d6c5e16e6d06b36bcfb8d21ca15afcd30ec80c0c368&=&format=webp&quality=lossless&width=1270&height=201)
-    </details>
 - [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/), [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/) and other Linux tools: For simple scripting & automation
 - [![Tailscale](https://img.shields.io/badge/Mailcow-242424?style=flat-square&logo=tailscale&logoColor=white)](https://tailscale.com/): 
     - To connect securely to private services (such as Nextcloud, admin panels, Bitwarden, etc.) or devices

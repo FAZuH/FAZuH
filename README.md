@@ -39,6 +39,22 @@ Tools & platform I've learned and used for my projects
 
 Last updated: 2026-03-14
 
+### Software Development
+
+List of programming languages and frameworks used for my projects
+
+- [![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)](https://www.rust-lang.org/)
+    - [![Poise](https://img.shields.io/badge/Poise-000000?style=flat-square)](https://github.com/serenity-rs/poise): Discord bot
+    - [![sqlx](https://img.shields.io/badge/sqlx-2B3E50?style=flat-square)](https://github.com/launchbadge/sqlx): SQLite
+    - [![Axum](https://img.shields.io/badge/Axum-333333?style=flat-square)](https://github.com/tokio-rs/axum): Web backend
+- [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+    - [![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)](https://playwright.dev/): Web automation
+    - [![Nextcord](https://img.shields.io/badge/Nextcord-5865F2?style=flat-square)](https://nextcord.dev/): Discord bot
+    - [![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)](https://www.sqlalchemy.org/): Database ORM
+    - [![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/), [![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org/), [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)](https://matplotlib.org/): Data analysis
+    - [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io/): Rapid web prototyping
+- [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
+
 ### DevOps/SysAdmin
 
 List of tools and platforms I've used to manage my servers
@@ -62,22 +78,6 @@ List of tools and platforms I've used to manage my servers
 - [![OVH](https://img.shields.io/badge/OVH-0050D7?style=flat-square&logo=ovh&logoColor=white)](https://www.ovhcloud.com/): Current cloud provider. As of writing, I manage 3 VPS & 1 dedicated (+3 VM)
 - [![iptables](https://img.shields.io/badge/iptables-444444?style=flat-square)](https://www.netfilter.org/projects/iptables/), [![Consul](https://img.shields.io/badge/Consul-F24C53?style=flat-square&logo=consul&logoColor=white)](https://www.consul.io/): Created script to NAT active Docker containers dynamically (which isn't possible by default) in VMs, and route to a port in the host, all sharing 1 IP with health checking
 - [![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)](https://www.proxmox.com/): For virtualization in my dedicated server to manage VMs and resource allocation. Though I just copied a setup script and modified it
-
-### Software Development
-
-List of programming languages and frameworks used for my projects
-
-- [![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)](https://www.rust-lang.org/)
-    - [![Poise](https://img.shields.io/badge/Poise-000000?style=flat-square)](https://github.com/serenity-rs/poise): Discord bot
-    - [![sqlx](https://img.shields.io/badge/sqlx-2B3E50?style=flat-square)](https://github.com/launchbadge/sqlx): SQLite
-    - [![Axum](https://img.shields.io/badge/Axum-333333?style=flat-square)](https://github.com/tokio-rs/axum): Web backend
-- [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-    - [![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)](https://playwright.dev/): Web automation
-    - [![Nextcord](https://img.shields.io/badge/Nextcord-5865F2?style=flat-square)](https://nextcord.dev/): Discord bot
-    - [![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)](https://www.sqlalchemy.org/): Database ORM
-    - [![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/), [![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org/), [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)](https://matplotlib.org/): Data analysis
-    - [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io/): Rapid web prototyping
-- [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
 <hr>
 

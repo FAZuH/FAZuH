@@ -50,7 +50,10 @@ List of tools and platforms I've used to manage my servers
     ![See image](https://media.discordapp.net/attachments/1301884019457261729/1482412493916733711/image.png?ex=69b6dbb8&is=69b58a38&hm=c8e9e560253892c287737d6c5e16e6d06b36bcfb8d21ca15afcd30ec80c0c368&=&format=webp&quality=lossless&width=1270&height=201)
     </details>
 - [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/), [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/) and other Linux tools: For simple scripting & automation
-- Tailscale: To connect to private services (such as Nextcloud, admin panels, Bitwarden, etc.)
+- [![Tailscale](https://img.shields.io/badge/Mailcow-242424?style=flat-square&logo=tailscale&logoColor=white)](https://tailscale.com/): 
+    - To connect securely to private services (such as Nextcloud, admin panels, Bitwarden, etc.) or devices
+    - To connect and play with friends
+    - To use devices as exit node
 - [![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white)](https://www.nginx.com/): Reverse proxy
 - [![Consul](https://img.shields.io/badge/Consul-F24C53?style=flat-square&logo=consul&logoColor=white)](https://www.consul.io/) **Template**: Dynamically generate NGINX configurations with Consul for automated reverse proxy
 - [![Restic](https://img.shields.io/badge/Restic-00ADEE?style=flat-square)](https://restic.net/), [![Autorestic](https://img.shields.io/badge/Autorestic-000000?style=flat-square)](https://autorestic.vercel.app/): Automatic backups

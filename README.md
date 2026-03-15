@@ -6,8 +6,8 @@ ToC
 - [Hobby](#hobby)
 - [Notable Projects](#notable-projects)
 - [Skills](#skills)
-    - [DevOps/SysAdmin](#devopssysadmin)
     - [Software Development](#software-development)
+    - [DevOps/SysAdmin](#devopssysadmin)
 
 ## Hobby
 

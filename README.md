@@ -29,7 +29,6 @@ ToC
 **College Projects**
 
 - https://github.com/FAZuH/Perbankan: Banking app
-- https://github.com/FAZuH/MonitorMBG: A monitoring system for Indonesia's Makan Bergizi Gratis (MBG) program
 
 ## Skills
 

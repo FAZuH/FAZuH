@@ -26,6 +26,13 @@ ToC
 - [contribution-grid](https://crates.io/crates/contribution-grid): A Rust crate for generating customizable, GitHub-style contribution heatmap graphs as images
 - [faz-bot-app-discord](https://github.com/FAZuH/faz-bot-app-discord) & [faz-bot-app-collect](https://github.com/FAZuH/faz-bot-app-collect): Discord bot for Wynncraft stat tracking n stuff
 
+**Client Projects**
+
+Managed hosting for each client for mail server, SSO, and cloud storage. Includes provisioning, monitoring, backups, maintenance, security, etc.
+
+- [krosanevasi.com](https://krosanevasi.com): Landing page for PT. Kros Anevasi (EPC company)
+- [arthaenergi.id](https://arthaenergi.id): Landing page for PT. Mandala Artha Energi (trading & engineering company)
+
 **College Projects**
 
 - https://github.com/FAZuH/Perbankan: Banking app

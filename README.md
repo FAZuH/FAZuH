@@ -35,7 +35,7 @@ Managed hosting for each client for mail server, SSO, and cloud storage. Include
 
 **College Projects**
 
-- https://github.com/FAZuH/Perbankan: Banking app
+- [https://github.com/FAZuH/Perbankan](Perbankan): Banking app
 
 ## Skills
 
@@ -54,10 +54,10 @@ List of programming languages and frameworks used for my projects
     - [![sqlx](https://img.shields.io/badge/sqlx-2B3E50?style=flat-square)](https://github.com/launchbadge/sqlx): SQLite
     - [![Axum](https://img.shields.io/badge/Axum-333333?style=flat-square)](https://github.com/tokio-rs/axum): Web backend
 - [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-    - [![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)](https://playwright.dev/): Web automation
     - [![Nextcord](https://img.shields.io/badge/Nextcord-5865F2?style=flat-square)](https://nextcord.dev/): Discord bot
     - [![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)](https://www.sqlalchemy.org/): Database ORM
     - [![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/), [![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org/), [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)](https://matplotlib.org/): Data analysis
+    - [![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)](https://playwright.dev/): Web automation
     - [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io/): Rapid web prototyping
 - [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
 

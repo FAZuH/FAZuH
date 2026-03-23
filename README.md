@@ -35,7 +35,7 @@ Managed hosting for each client for mail server, SSO, and cloud storage. Include
 
 **College Projects**
 
-- [https://github.com/FAZuH/Perbankan](Perbankan): Banking app
+- [Perbankan](https://github.com/FAZuH/Perbankan): Banking app
 
 ## Skills
 

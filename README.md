@@ -44,7 +44,7 @@ Tools & platform I've learned and used for my projects
 
 <u>Sorted by frequency/total use time</u>
 
-Last updated: 2026-03-14
+Last updated: 2026-05-03
 
 ### Software Development
 
@@ -52,6 +52,8 @@ List of programming languages and frameworks used for my projects
 
 - [![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)](https://www.rust-lang.org/)
     - [![Poise](https://img.shields.io/badge/Poise-000000?style=flat-square)](https://github.com/serenity-rs/poise): Discord bot
+    - [![ratatui](https://img.shields.io/badge/ratatui-000000?style=flat-square)](https://github.com/ratatui/ratatui): TUI
+    - [![Diesel](https://img.shields.io/badge/Diesel-000000?style=flat-square)](https://github.com/diesel-rs/diesel): ORM
     - [![sqlx](https://img.shields.io/badge/sqlx-2B3E50?style=flat-square)](https://github.com/launchbadge/sqlx): SQLite
     - [![Axum](https://img.shields.io/badge/Axum-333333?style=flat-square)](https://github.com/tokio-rs/axum): Web backend
 - [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)

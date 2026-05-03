@@ -20,11 +20,10 @@ ToC
 **Personal Projects**
 
 - [pwr-bot](https://github.com/FAZuH/pwr-bot): Discord bot for tracking anime & manga updates, and voice call stats
+- [tomo](https://github.com/FAZuH/tomo): TUI-based Pomodoro timer
 - [notes.fazuh.com](https://notes.fazuh.com): My notes, hosted on a VPS. Written using [![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=flat-square&logo=obsidian&logoColor=white)](https://obsidian.md/), built using [![Quartz](https://img.shields.io/badge/Quartz-000000?style=flat-square&logo=obsidian&logoColor=white)](https://quartz.jzhao.xyz/)
 - mail.fazuh.com: Mail server for @fazuh.com emails using [![Mailcow](https://img.shields.io/badge/Mailcow-EA4335?style=flat-square&logo=gmail&logoColor=white)](https://mailcow.email/)
-- [tomo](https://github.com/FAZuH/tomo): Multiplatform Pomodoro app
 - [warlock](https://github.com/FAZuH/warlock): Bot for course registration, course schedule update tracking for SIAKNG - UI
-- [contribution-grid](https://crates.io/crates/contribution-grid): A Rust crate for generating customizable, GitHub-style contribution heatmap graphs as images
 - [faz-bot-app-discord](https://github.com/FAZuH/faz-bot-app-discord) & [faz-bot-app-collect](https://github.com/FAZuH/faz-bot-app-collect): Discord bot for Wynncraft stat tracking n stuff
 
 **Client Projects**
@@ -33,6 +32,12 @@ Managed hosting for each client for mail server, SSO, and cloud storage. Include
 
 - [krosanevasi.com](https://krosanevasi.com): Landing page for PT. Kros Anevasi (EPC company)
 - [arthaenergi.id](https://arthaenergi.id): Landing page for PT. Mandala Artha Energi (trading & engineering company)
+
+**Small Projects**
+- [contribution-grid](https://crates.io/crates/contribution-grid): A Rust crate for generating customizable, GitHub-style contribution heatmap graphs as images
+- [ratatui-toaster](https://github.com/FAZuH/ratatui-toaster): Fork of [this](https://crates.io/crates/ratatui-toaster). Added toast deduplication and stacking
+- [elm-architecture](https://github.com/FAZuH/elm-architecture): PoC of applying The Elm Architecture (TEA) across different UI backends
+- [vigilance](https://github.com/FAZuH/vigilance): Simple program to watch and notify usage of disk, memory, battery and wifi
 
 **College Projects**
 

@@ -34,6 +34,7 @@ Managed hosting for each client for mail server, SSO, and cloud storage. Include
 - [arthaenergi.id](https://arthaenergi.id): Landing page for PT. Mandala Artha Energi (trading & engineering company)
 
 **Small Projects**
+- [lab-ops](https://github.com/FAZuH/lab-ops): Personal utility tools for my homelab
 - [contribution-grid](https://crates.io/crates/contribution-grid): A Rust crate for generating customizable, GitHub-style contribution heatmap graphs as images
 - [ratatui-toaster](https://github.com/FAZuH/ratatui-toaster): Fork of [this](https://crates.io/crates/ratatui-toaster). Added toast deduplication and stacking
 - [elm-architecture](https://github.com/FAZuH/elm-architecture): PoC of applying The Elm Architecture (TEA) across different UI backends

@@ -37,9 +37,10 @@ Managed hosting for each client for mail server, SSO, and cloud storage. Include
 **(Smaller) Personal Projects**
 - [design-patterns-rust](https://github.com/FAZuH/design-patterns-rust): Learn software design patterns in Rust
 - [contribution-grid](https://crates.io/crates/contribution-grid): A Rust crate for generating customizable, GitHub-style contribution heatmap graphs as images
-- [ratatui-toaster](https://github.com/FAZuH/ratatui-toaster): Fork of [this](https://crates.io/crates/ratatui-toaster). Added toast deduplication and stacking
 - [elm-architecture](https://github.com/FAZuH/elm-architecture): PoC of applying The Elm Architecture (TEA) across different UI backends in Rust
 - [symlist](https://github.com/FAZuH/symlist): Simple CLI to manage and sync a list of symbolic links
+- [hyper-clear](https://github.com/FAZuH/hyper-clear): CLI tool to control window transparency and blur on Hyprland
+- [ratatui-toaster](https://github.com/FAZuH/ratatui-toaster): Fork of [this](https://crates.io/crates/ratatui-toaster). Added toast deduplication and stacking
 - [vigilance](https://github.com/FAZuH/vigilance): Simple program to watch and notify usage of disk, memory, battery and wifi
 
 **College Projects**
